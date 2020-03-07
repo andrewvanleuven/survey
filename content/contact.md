@@ -16,18 +16,15 @@ Please feel free to contact any of us if you have questions.
 
 ### Dr. Stephanie Moulton
 
-{{< figure src="/images/moulton.png" class="img-sm">}}
-
+![Dr. Stephanie Moulton](/images/moulton.png)
 [Email](mailto:moulton.23@osu.edu) | [Website](http://glenn.osu.edu/faculty/glenn-faculty/moulton/)
 
 ### Dr. Hongtao Yi
 
-{{< figure src="/images/yi.png" class="img-sm">}}
-
+![Dr. Hongtao Yi](/images/yi.png)
 [Email](mailto:yi.201@osu.edu) | [Website](http://glenn.osu.edu/faculty/glenn-faculty/yi/)
 
 ### Andrew J. Van Leuven (PhD Student)
 
-{{< figure src="/images/vanleuven.png" class="img-sm">}}
-
+![Andrew J. Van Leuven](/images/vanleuven.png)
 [Email](mailto:vanleuven.3@osu.edu) | [Website](http://andrewvanleuven.com)
