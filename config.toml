@@ -1,5 +1,5 @@
 title = "The OSU Main Street Impact Survey"
-baseURL = "https://example.com"
+baseURL = "https://mainstreetsurvey.netlify.com/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
@@ -11,10 +11,7 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+
 
 [params]
   favicon = ""
