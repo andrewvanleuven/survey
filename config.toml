@@ -1,4 +1,4 @@
-title = "The OSU Main Street Impact Survey"
+title = "Main Street Survey"
 baseURL = "https://mainstreetsurvey.netlify.com/"
 languageCode = "en-us"
 theme = "ananke"
@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = ""
   twitter = ""
   instagram = ""
